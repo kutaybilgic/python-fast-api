@@ -1,0 +1,130 @@
+[
+    {
+        "id": "9659d827-3158-4ca9-9688-7cd806ba7b20",
+        "name": "cizi",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fd360b6f-c6ab-4fca-a50b-952527133d4b",
+        "name": "ruffles_ketcap",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "0d7f062c8d4a4e26a1d5a7d9791502b5",
+        "name": "burcak",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "caramio",
+        "ingredients": [
+            "gluten-free"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "dido_trio",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "eticin",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "hanimeller",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "kinder_bueno_white",
+        "ingredients": [
+            "gluten-free"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "krispi_taco",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "laviva",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "eba67b01e46b4fafb95335b3f6ddc9a2",
+        "name": "nero",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fbf315e2170d44e8a17548975f8872c9",
+        "name": "sarelle_duo",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fbf315e2170d44e8a17548975f8872c9",
+        "name": "tadelle",
+        "ingredients": [
+            "gluten-free"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fbf315e2170d44e8a17548975f8872c9",
+        "name": "toblerone",
+        "ingredients": [
+            "gluten-free"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fbf315e2170d44e8a17548975f8872c9",
+        "name": "ulker_antepfistikli_kare_cikolata",
+        "ingredients": [
+            "gluten-free"
+        ],
+        "orm_mode": true
+    },
+    {
+        "id": "fbf315e2170d44e8a17548975f8872c9",
+        "name": "ulker_kraker",
+        "ingredients": [
+            "gluten"
+        ],
+        "orm_mode": true
+    }
+]

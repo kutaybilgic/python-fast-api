@@ -1,0 +1,42 @@
+[
+    {
+        "id": "f447f30978934a6f9f16196353e56df2",
+        "username": "a",
+        "password": "a",
+        "diets": [
+            "gluten"
+        ]
+    },
+    {
+        "id": "d8f6e929bae24f3b8548872cfe90248f",
+        "username": "b",
+        "password": "b",
+        "diets": [
+            "gluten"
+        ]
+    },
+    {
+        "id": "d8f6e929bae24f3b8548872cfe90248f",
+        "username": "c",
+        "password": "c",
+        "diets": [
+            "gluten"
+        ]
+    },
+    {
+        "id": "d8f6e929bae24f3b8548872cfe90248f",
+        "username": "d",
+        "password": "d",
+        "diets": [
+            "gluten"
+        ]
+    },
+    {
+        "id": "d8f6e929bae24f3b8548872cfe90248f",
+        "username": "e",
+        "password": "e",
+        "diets": [
+            "gluten"
+        ]
+    }
+]
