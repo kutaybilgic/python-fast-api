@@ -1,2 +1,1 @@
-heroku ps:scale web=1
-web: gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+web: python main.py
